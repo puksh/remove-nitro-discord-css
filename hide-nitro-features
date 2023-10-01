@@ -1,0 +1,57 @@
+/* Remove nitro features by NebulaBC (removenitrocss@nebulabc.net) */
+
+[aria-label="Add Super Reaction"] {
+  display: none;
+}
+
+[aria-label="Send a gift"] {
+  display: none;
+}
+
+[aria-label*="super reactions, press to super react"] {
+  pointer-events: none;
+}
+
+[aria-label="super reaction tooltip upsell"] {
+  display: none;
+}
+
+[aria-label="This server has unlocked all Boosting perks!"] {
+  display: none;
+}
+
+[class*='shinyButton'] {
+ display: none;
+}
+
+.burstGlow-3AZMzF {
+  display: none;
+}
+
+#message-actions-add-reaction-1 {
+  display: none;
+}
+
+[href="/store"] {
+  display: none;
+}
+
+.colorPremiumGradient-38tGFG {
+  display: none;
+}
+
+#guild-header-popout-premium-subscribe {
+  display: none;
+}
+
+[Name="Get Super Reactions"] {
+  display: none;
+}
+
+.notice-2HEN-u {
+  display: none;
+}
+
+[data-list-item-id="private-channels-uid_22___activities"] {
+  display: none;
+}
