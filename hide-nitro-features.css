@@ -24,7 +24,11 @@
  display: none;
 }
 
-[class='animation-2Ulm63'] {
+[class*='animation-2Ulm63'] {
+ display: none;
+}
+
+[class*='contentPremium-'] {
  display: none;
 }
 
