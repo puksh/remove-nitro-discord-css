@@ -67,3 +67,7 @@
 [data-list-item-id="private-channels-uid_22___activities"] {
   display: none;
 }
+
+[class*='shyButton__30111'] {
+ display: none;
+}
