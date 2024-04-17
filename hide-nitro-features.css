@@ -71,3 +71,38 @@
 [class*='shyButton__30111'] {
  display: none;
 }
+
+/*Nitro button in Home */
+[data-list-item-id="private-channels-uid_18___nitro"] {
+  display: none;
+}
+
+[data-list-item-id="private-channels-uid_18___shop"] {
+  display: none;
+}
+
+/* Settings Panel Hide Nitro */
+div.separator_d14fb1:nth-child(11){
+  display:none;
+}
+div.header__71a82:nth-child(12){
+  display:none;
+}
+.premiumTab_ad0913 {
+  display:none;
+}
+div.item__48dda:nth-child(14) {
+  display: none;
+}
+div.item__48dda:nth-child(15){
+  display:none;
+}
+div.item__48dda:nth-child(16){
+  display: none;
+}
+div.item__48dda:nth-child(17){
+  display: none;
+}
+div.item__48dda:nth-child(34){
+  display:none;
+}
