@@ -103,9 +103,12 @@ div.item__48dda:nth-child(16){
 div.item__48dda:nth-child(17){
   display: none;
 }
+/* this is the Merch button - doesn't work with Vencord + OpenAsar */
+/*
 div.item__48dda:nth-child(34){
   display:none;
 }
+*/
 
 /* Profile settings ad */
 .container__686c4{
